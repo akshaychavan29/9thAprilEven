@@ -40,5 +40,6 @@ public class ConcreteClass extends Sample {
 	}
 	
 	//Update new changes
+	//Hello add new
 
 }
