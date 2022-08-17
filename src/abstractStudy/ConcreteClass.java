@@ -38,5 +38,7 @@ public class ConcreteClass extends Sample {
 	{
 		System.out.println("test6 method is own method of cc");
 	}
+	
+	//Update new changes
 
 }
